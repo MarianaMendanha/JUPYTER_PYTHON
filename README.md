@@ -21,6 +21,7 @@ Para executar o projeto, é interessante instalar o ambiente JUPYTER:
 Todos os dias, o nosso sistema atualiza as vendas do dia anterior. O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, assim que começar a trabalhar, com o faturamento e a quantidade de produtos vendidos no dia anterior.
 
 E-mail da diretoria: seugmail+diretoria@gmail.com
+
 Local onde o sistema disponibiliza as vendas do dia anterior: https://drive.google.com/drive/folders/149xknr9JvrlEnhNWO49zPcw0PW5icxga?usp=sharing
 
 Para resolver isso, vamos usar o pyautogui, uma biblioteca de automação de comandos do mouse e do teclado.
@@ -35,6 +36,7 @@ Isso representa uma perda de milhões para a empresa.
 O que a empresa precisa fazer para resolver isso?
 
 Base de Dados: https://drive.google.com/drive/folders/1T7D0BlWkNuy_MDpUHuBG44kT80EmRYIs?usp=sharing
+
 Link Original do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-dataset
 
 ### 🚀 3.  Projeto Ciência de Dados - Previsão de Vendas
