@@ -13,9 +13,9 @@ Para executar o projeto, é interessante instalar o ambiente JUPYTER:
 
 - [Versão Open Source do Anaconda](https://www.anaconda.com/products/individual)
 - [Vídeo tutorial para instalação correta](https://www.youtube.com/watch?v=_eK0z5QbpKA&t=0s)
+- [Para saber mais do ambiente utilizado](https://github.com/jupyter/notebook)
 
 ## Desafios
-[Para saber mais](https://github.com/jupyter/notebook)
 
 ### 🛠 1.  Automação de Sistemas e Processos com Python
 Todos os dias, o nosso sistema atualiza as vendas do dia anterior. O seu trabalho diário, como analista, é enviar um e-mail para a diretoria, assim que começar a trabalhar, com o faturamento e a quantidade de produtos vendidos no dia anterior.
