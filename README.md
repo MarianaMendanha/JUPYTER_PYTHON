@@ -4,7 +4,7 @@ Repositório voltado para aprendizado da linguagem Python por meio do ambiente J
 ## 🚧 PROJETOS IMPLEMENTADOS
 - [x] Automação de Sistemas e Processos com Python
 - [x] Análise de Dados com Python
-- [ ] Projeto Ciência de Dados - Previsão de Vendas
+- [x] Projeto Ciência de Dados - Previsão de Vendas
 - [ ] Automação Web e Busca de Informações com Python
 
 ## Primeiros Passos
