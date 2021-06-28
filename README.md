@@ -49,7 +49,7 @@ Nosso desafio é conseguir prever as vendas que vamos ter em determinado períod
 - Passo 6: Modelagem + Algoritmos (Aqui que entra a Inteligência Artificial, se necessário)
 - Passo 7: Interpretação de Resultados
 
-## 💜 Automação Web e Busca de Informações com Python
+## 💜 4.  Automação Web e Busca de Informações com Python
 Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de:
 - Dólar
 - Euro
